@@ -1,2 +1,2 @@
-bash -c "cd /Users/tashigefengzi/Desktop/GitHub/yilai; ./删掉bz2重新生成bz2.sh;"
+bash -c "cd /Users/zk/tools/repo; ./删掉bz2重新生成bz2.sh;"
 exit
